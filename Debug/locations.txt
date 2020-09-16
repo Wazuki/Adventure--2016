@@ -1,0 +1,974 @@
+num_locations 242
+
+X 1
+Y 1
+description You see an alpine, hilly expanse, covered with dangerous-looking grass.
+
+X 2
+Y 1
+description A massive fortress is dug into the mountain here. This is most likely the orc fortress.
+
+X 3
+Y 1
+description You see an alpine, hilly terrain, covered with fresh plants and jagged stones.
+
+X 4
+Y 1
+description You see a rugged, flat wilderness, covered with fresh trees and wildflowers.
+
+X 5
+Y 1
+description You see a rugged, hilly area, covered with fresh shrubs and broken stones.
+
+X 6
+Y 1
+description You see a uncharted, hilly expanse, scattered with dangerous-looking trees and wildflowers.
+
+X 7
+Y 1
+description You see a rugged, hilly expanse, covered with jagged ore.
+
+X 8
+Y 1
+description You see a rugged, mountainous wilderness, scattered with smooth rocks.
+
+X 9
+Y 1
+description You see a rocky, flat expanse, dotted with dangerous-looking shrubs.
+
+X 10
+Y 1
+description You see a sloped, flat wilderness, covered with dangerous-looking shrubs and sharp obsidian.
+
+X 11
+Y 1
+description You see a desolate, hilly terrain, scattered with pleasant-smelling shrubs and broken ore.
+
+X 12
+Y 1
+description You see a desolate, mountainous region, scattered with pleasant-smelling trees and wildflowers.
+
+X 13
+Y 1
+description You see a rocky, flat wilderness, scattered with strange-looking trees and wildflowers and sharp rocks.
+
+X 14
+Y 1
+description You see a desolate, flat expanse, covered with strange-looking grass and smooth ore.
+
+X 15
+Y 1
+description You see a uncharted, hilly wilderness, covered with pleasant-smelling shrubs and sharp obsidian.
+
+X 16
+Y 1
+description You see a desolate, mountainous wilderness, covered with unusual obsidian.
+
+X 17
+Y 1
+description A dank cave is here, no doubt the source of the goblin problem in the area.
+
+X 1
+Y 2
+description You see a rugged, flat expanse, covered with sharp stones.
+
+X 2
+Y 2
+description You see a uncharted, mountainous wilderness, covered with worn obsidian.
+
+X 3
+Y 2
+description You see a desolate, flat expanse, dotted with smooth ore.
+
+X 6
+Y 2
+description You see a sloped, mountainous area, dotted with strange-looking plants.
+
+X 7
+Y 2
+description You see an alpine, hilly area, dotted with dangerous-looking plants.
+
+X 8
+Y 2
+description You see an alpine, mountainous region, dotted with dangerous-looking plants.
+
+X 10
+Y 2
+description You see a desolate, hilly expanse, scattered with broken stones.
+
+X 11
+Y 2
+description You see a rocky, hilly area, dotted with jagged obsidian.
+
+X 12
+Y 2
+description You see a sloped, hilly expanse, covered with foul-smelling grass and smooth rocks.
+
+X 13
+Y 2
+description You see a desolate, flat area, scattered with pleasant-smelling shrubs and broken obsidian.
+
+X 14
+Y 2
+description You see a uncharted, hilly expanse, scattered with pleasant-smelling grass.
+
+X 16
+Y 2
+description You see a rugged, mountainous expanse, dotted with dangerous-looking grass and broken rocks.
+
+X 17
+Y 2
+description You see a rocky, flat area, scattered with sharp obsidian.
+
+X 18
+Y 2
+description You see a uncharted, mountainous region, covered with dangerous-looking plants.
+
+X 12
+Y 3
+description You see a uncharted, mountainous area, covered with smooth ore.
+
+X 13
+Y 3
+description You see a rocky, mountainous wilderness, covered with strange-looking trees and wildflowers and worn stones.
+
+X 14
+Y 3
+description You see a desolate, mountainous terrain, dotted with unusual ore.
+
+X 17
+Y 3
+description You see a rocky, hilly wilderness, dotted with worn rocks.
+
+X 18
+Y 3
+description You see a rugged, mountainous region, scattered with dangerous-looking plants and jagged stones.
+
+X 9
+Y 4
+description A small town, built into the mountain, sits here. There is also a shop here: General Goode's Generally General Goods: Locally Owned Franchise.
+
+X 12
+Y 4
+description You see an alpine, mountainous area, dotted with broken obsidian.
+
+X 13
+Y 4
+description You see a rugged, flat terrain, covered with jagged obsidian.
+
+X 14
+Y 4
+description You see an alpine, hilly terrain, dotted with fresh shrubs and worn ore.
+
+X 15
+Y 4
+description You see an alpine, mountainous area, scattered with strange-looking plants.
+
+X 17
+Y 4
+description You see an alpine, flat area, dotted with broken ore.
+
+X 18
+Y 4
+description You see a rugged, flat region, dotted with dangerous-looking shrubs.
+
+X 1
+Y 5
+description You see a sloped, mountainous area, covered with worn stones.
+
+X 2
+Y 5
+description You see a rugged, mountainous expanse, covered with pleasant-smelling shrubs.
+
+X 3
+Y 5
+description You see a sloped, mountainous terrain, scattered with foul-smelling trees and wildflowers and broken obsidian.
+
+X 6
+Y 5
+description You see a rugged, hilly expanse, covered with foul-smelling shrubs.
+
+X 7
+Y 5
+description You see a rocky, hilly region, scattered with fresh plants.
+
+X 8
+Y 5
+description You see a rugged, flat wilderness, covered with dangerous-looking trees and wildflowers.
+
+X 9
+Y 5
+description You see a desolate, hilly terrain, scattered with sharp rocks.
+
+X 10
+Y 5
+description You see a sloped, hilly terrain, covered with sharp ore.
+
+X 11
+Y 5
+description You see a sloped, mountainous area, covered with pleasant-smelling trees and wildflowers.
+
+X 12
+Y 5
+description You see a rocky, mountainous area, scattered with jagged stones.
+
+X 13
+Y 5
+description You see a desolate, mountainous wilderness, scattered with smooth ore.
+
+X 14
+Y 5
+description You see a rugged, hilly wilderness, scattered with broken stones.
+
+X 15
+Y 5
+description You see a sloped, mountainous area, scattered with fresh plants.
+
+X 16
+Y 5
+description You see a rugged, hilly region, dotted with worn stones.
+
+X 17
+Y 5
+description You see a rocky, flat expanse, covered with foul-smelling grass and jagged stones.
+
+X 18
+Y 5
+description You see a desolate, flat wilderness, dotted with fresh grass and jagged stones.
+
+X 1
+Y 6
+description You see a rugged, flat region, covered with fresh grass.
+
+X 2
+Y 6
+description You see a sloping, forest region, scattered with dangerous-looking plants and jagged ore.
+
+X 3
+Y 6
+description You see a rolling, plains terrain, covered with worn rocks.
+
+X 4
+Y 6
+description You see a rugged, broken terrain, covered with pleasant-smelling shrubs and unusual ore.
+
+X 5
+Y 6
+description You see a sloping, desert area, scattered with broken rocks.
+
+X 6
+Y 6
+description You see a rugged, flat terrain, covered with worn rocks.
+
+X 7
+Y 6
+description You see a stony, forest area, scattered with foul-smelling plants and jagged stones.
+
+X 8
+Y 6
+description You see a barren, flat region, covered with pleasant-smelling grass.
+
+X 9
+Y 6
+description You see a sloping, broken wilderness, scattered with strange-looking grass and worn stones.
+
+X 10
+Y 6
+description You see a stony, flat terrain, covered with smooth stones.
+
+X 11
+Y 6
+description You see a rolling, flat terrain, covered with fresh grass.
+
+X 12
+Y 6
+description You see a barren, forest terrain, covered with strange-looking shrubs.
+
+X 13
+Y 6
+description You see a desolate, broken area, covered with fresh trees and wildflowers.
+
+X 14
+Y 6
+description You see a stony, plains region, scattered with sharp rocks.
+
+X 15
+Y 6
+description You see a sloping, hilly wilderness, dotted with sharp obsidian.
+
+X 16
+Y 6
+description You see a desolate, desert terrain, covered with fresh trees and wildflowers.
+
+X 17
+Y 6
+description You see a barren, broken terrain, scattered with jagged rocks.
+
+X 18
+Y 6
+description You see a stony, plains terrain, scattered with pleasant-smelling shrubs.
+
+X 1
+Y 7
+description You see a desolate, forest expanse, dotted with dangerous-looking grass and smooth obsidian.
+
+X 5
+Y 7
+description You see an uncharted, plains wilderness, covered with fresh trees and wildflowers.
+
+X 6
+Y 7
+description You see a rolling, forest area, scattered with dangerous-looking grass and worn obsidian.
+
+X 7
+Y 7
+description You see a rugged, plains region, dotted with pleasant-smelling shrubs and unusual obsidian.
+
+X 8
+Y 7
+description You see a barren, flat region, scattered with foul-smelling plants.
+
+X 9
+Y 7
+description You see a desolate, plains wilderness, dotted with strange-looking shrubs and worn ore.
+
+X 10
+Y 7
+description You see a sloping, broken terrain, covered with pleasant-smelling plants and broken ore.
+
+X 11
+Y 7
+description You see a sloping, broken terrain, scattered with worn ore.
+
+X 12
+Y 7
+description You see a dry, hilly area, covered with foul-smelling plants.
+
+X 13
+Y 7
+description You see a rugged, plains area, scattered with foul-smelling trees and wildflowers.
+
+X 14
+Y 7
+description You see a dry, broken area, dotted with fresh plants.
+
+X 15
+Y 7
+description You see a rugged, forest expanse, scattered with sharp stones.
+
+X 16
+Y 7
+description You see a desolate, flat terrain, covered with strange-looking grass and broken stones.
+
+X 17
+Y 7
+description You see a rugged, hilly wilderness, dotted with foul-smelling trees and wildflowers.
+
+X 18
+Y 7
+description You see a stony, forest wilderness, scattered with smooth stones.
+
+X 1
+Y 8
+description You see a barren, hilly region, covered with sharp rocks.
+
+X 6
+Y 8
+description You see a dry, flat terrain, dotted with jagged stones.
+
+X 7
+Y 8
+description You see a dry, flat expanse, covered with strange-looking shrubs and broken stones.
+
+X 8
+Y 8
+description You see a barren, desert area, dotted with sharp ore.
+
+X 9
+Y 8
+description You see a stony, broken region, covered with fresh trees and wildflowers.
+
+X 10
+Y 8
+description You see an uncharted, hilly area, covered with dangerous-looking plants.
+
+X 11
+Y 8
+description You see a barren, hilly area, covered with dangerous-looking grass.
+
+X 14
+Y 8
+description You see an uncharted, forest terrain, scattered with fresh plants.
+
+X 15
+Y 8
+description You see a stony, desert region, covered with foul-smelling trees and wildflowers and unusual rocks.
+
+X 16
+Y 8
+description You see a sloping, broken terrain, scattered with unusual stones.
+
+X 17
+Y 8
+description You see a barren, steppe wilderness, dotted with strange-looking shrubs and broken obsidian.
+
+X 18
+Y 8
+description You see a sloping, steppe terrain, covered with pleasant-smelling shrubs and broken obsidian.
+
+X 1
+Y 9
+description You see an uncharted, forest area, dotted with dangerous-looking shrubs and jagged stones.
+
+X 6
+Y 9
+description You see a barren, forest region, scattered with broken rocks.
+
+X 7
+Y 9
+description You see a sloping, desert terrain, scattered with pleasant-smelling trees and wildflowers.
+
+X 8
+Y 9
+description You see a barren, forest wilderness, scattered with worn obsidian.
+
+X 9
+Y 9
+description You see a stony, broken wilderness, covered with fresh grass.
+
+X 10
+Y 9
+description You see an uncharted, desert region, scattered with dangerous-looking plants and jagged obsidian.
+
+X 14
+Y 9
+description You see an uncharted, steppe expanse, covered with dangerous-looking grass and broken obsidian.
+
+X 15
+Y 9
+description You see a stony, plains area, scattered with fresh shrubs.
+
+X 16
+Y 9
+description You see a rugged, flat area, covered with worn rocks.
+
+X 17
+Y 9
+description You see a dry, flat area, scattered with strange-looking shrubs.
+
+X 18
+Y 9
+description You see a stony, steppe area, scattered with pleasant-smelling grass and smooth obsidian.
+
+X 1
+Y 10
+description You see a rugged, forest terrain, covered with dangerous-looking trees and wildflowers and smooth obsidian.
+
+X 2
+Y 10
+description You see a desolate, forest area, scattered with unusual obsidian.
+
+X 3
+Y 10
+description A small hamlet sits on a lake here. There is also a shop here: another General Goode's Generally General Goods.
+
+X 4
+Y 10
+description You see a rolling, desert area, covered with worn rocks.
+
+X 5
+Y 10
+description You see an uncharted, hilly area, scattered with unusual ore.
+
+X 6
+Y 10
+description You see a barren, flat area, dotted with unusual stones.
+
+X 7
+Y 10
+description You see a desolate, plains expanse, dotted with strange-looking plants and smooth stones.
+
+X 8
+Y 10
+description You see an uncharted, plains expanse, dotted with smooth rocks.
+
+X 9
+Y 10
+description You see a stony, flat expanse, dotted with broken ore.
+
+X 10
+Y 10
+description You see a desolate, desert expanse, scattered with fresh trees and wildflowers and worn rocks.
+
+X 14
+Y 10
+description You see a rolling, forest area, scattered with strange-looking plants.
+
+X 15
+Y 10
+description You see a rolling, steppe region, scattered with foul-smelling trees and wildflowers.
+
+X 16
+Y 10
+description You see a desolate, broken expanse, dotted with sharp ore.
+
+X 17
+Y 10
+description You see a dry, plains wilderness, dotted with strange-looking shrubs and broken rocks.
+
+X 18
+Y 10
+description You see a stony, forest wilderness, scattered with strange-looking trees and wildflowers and unusual stones.
+
+X 1
+Y 11
+description You see an uncharted, plains expanse, scattered with pleasant-smelling shrubs and broken stones.
+
+X 2
+Y 11
+description You see a sloping, broken wilderness, dotted with sharp stones.
+
+X 3
+Y 11
+description You see a rugged, desert wilderness, scattered with pleasant-smelling grass.
+
+X 4
+Y 11
+description You see a rugged, plains wilderness, covered with unusual obsidian.
+
+X 5
+Y 11
+description You see a stony, forest expanse, scattered with worn stones.
+
+X 7
+Y 11
+description You see a stony, hilly region, scattered with smooth obsidian.
+
+X 8
+Y 11
+description You see a sloping, desert terrain, scattered with pleasant-smelling trees and wildflowers.
+
+X 9
+Y 11
+description You see a barren, forest area, dotted with pleasant-smelling grass.
+
+X 10
+Y 11
+description You see a dry, steppe region, dotted with fresh plants and broken stones.
+
+X 11
+Y 11
+description You see a sloping, forest wilderness, scattered with fresh trees and wildflowers and unusual obsidian.
+
+X 12
+Y 11
+description You see a desolate, steppe expanse, dotted with fresh trees and wildflowers.
+
+X 13
+Y 11
+description You see a rugged, desert expanse, dotted with pleasant-smelling shrubs and worn ore.
+
+X 14
+Y 11
+description You see an uncharted, broken region, covered with foul-smelling trees and wildflowers and sharp obsidian.
+
+X 15
+Y 11
+description You see a dry, desert wilderness, dotted with sharp rocks.
+
+X 16
+Y 11
+description You see a rolling, steppe area, scattered with dangerous-looking shrubs.
+
+X 17
+Y 11
+description You see a desolate, hilly region, scattered with worn stones.
+
+X 18
+Y 11
+description You see a rolling, hilly region, scattered with dangerous-looking grass.
+
+X 3
+Y 12
+description You see a rugged, hilly region, dotted with unusual ore.
+
+X 4
+Y 12
+description You see a barren, plains terrain, dotted with dangerous-looking shrubs.
+
+X 5
+Y 12
+description You see a dry, steppe expanse, dotted with dangerous-looking trees and wildflowers.
+
+X 8
+Y 12
+description You see a desolate, forest wilderness, covered with strange-looking plants.
+
+X 9
+Y 12
+description You see a rugged, plains expanse, covered with strange-looking grass.
+
+X 10
+Y 12
+description You see a desolate, hilly wilderness, covered with jagged obsidian.
+
+X 11
+Y 12
+description You see a desolate, flat area, dotted with unusual ore.
+
+X 12
+Y 12
+description You see a rugged, steppe wilderness, dotted with fresh plants and broken rocks.
+
+X 13
+Y 12
+description You see an uncharted, desert terrain, scattered with strange-looking shrubs and sharp stones.
+
+X 14
+Y 12
+description You see a barren, steppe terrain, dotted with foul-smelling plants.
+
+X 15
+Y 12
+description You see a barren, hilly terrain, scattered with foul-smelling trees and wildflowers.
+
+X 16
+Y 12
+description You see a desolate, forest wilderness, dotted with broken rocks.
+
+X 17
+Y 12
+description You see a stony, hilly expanse, dotted with pleasant-smelling trees and wildflowers.
+
+X 18
+Y 12
+description You see a rugged, plains terrain, covered with unusual ore.
+
+X 3
+Y 13
+description You see a rugged, flat wilderness, covered with strange-looking plants and sharp obsidian.
+
+X 4
+Y 13
+description You see a stony, hilly terrain, scattered with dangerous-looking grass.
+
+X 5
+Y 13
+description You see a rugged, hilly wilderness, scattered with strange-looking plants.
+
+X 8
+Y 13
+description You see a desolate, plains expanse, covered with pleasant-smelling shrubs and worn obsidian.
+
+X 9
+Y 13
+description You see a rugged, forest terrain, dotted with pleasant-smelling grass.
+
+X 10
+Y 13
+description You see an uncharted, flat expanse, scattered with sharp rocks.
+
+X 11
+Y 13
+description You see a rolling, hilly region, scattered with foul-smelling plants.
+
+X 12
+Y 13
+description You see an uncharted, steppe expanse, covered with broken ore.
+
+X 13
+Y 13
+description You see a desolate, forest expanse, covered with fresh shrubs.
+
+X 14
+Y 13
+description You see a sloping, broken region, scattered with fresh shrubs and broken rocks.
+
+X 15
+Y 13
+description You see a rugged, desert expanse, dotted with worn stones.
+
+X 18
+Y 13
+description You see an uncharted, steppe wilderness, dotted with smooth rocks.
+
+X 3
+Y 14
+description You see an uncharted, plains expanse, scattered with broken ore.
+
+X 4
+Y 14
+description You see a stony, plains terrain, covered with worn rocks.
+
+X 5
+Y 14
+description You see a barren, forest wilderness, covered with pleasant-smelling trees and wildflowers.
+
+X 8
+Y 14
+description You see a barren, forest region, dotted with strange-looking trees and wildflowers.
+
+X 9
+Y 14
+description You see a rugged, hilly wilderness, dotted with dangerous-looking plants.
+
+X 10
+Y 14
+description You see a dry, desert region, scattered with jagged stones.
+
+X 11
+Y 14
+description You see a rolling, desert expanse, scattered with pleasant-smelling grass.
+
+X 12
+Y 14
+description You see a dry, desert region, dotted with fresh trees and wildflowers.
+
+X 18
+Y 14
+description You see an uncharted, plains wilderness, covered with foul-smelling shrubs.
+
+X 1
+Y 15
+description You see an uncharted, flat wilderness, covered with strange-looking trees and wildflowers and broken ore.
+
+X 2
+Y 15
+description You see a dry, desert wilderness, dotted with foul-smelling trees and wildflowers and sharp ore.
+
+X 3
+Y 15
+description You see a rolling, steppe region, dotted with unusual ore.
+
+X 4
+Y 15
+description You see a barren, steppe expanse, covered with foul-smelling grass and jagged obsidian.
+
+X 5
+Y 15
+description You see a desolate, hilly expanse, dotted with dangerous-looking trees and wildflowers and worn rocks.
+
+X 6
+Y 15
+description You see a stony, desert region, covered with strange-looking grass and unusual stones.
+
+X 7
+Y 15
+description You see a rolling, hilly area, dotted with unusual rocks.
+
+X 8
+Y 15
+description You see a barren, broken expanse, covered with strange-looking shrubs.
+
+X 9
+Y 15
+description You see a rugged, forest region, covered with fresh grass.
+
+X 10
+Y 15
+description You see a rugged, steppe area, dotted with pleasant-smelling trees and wildflowers and worn stones.
+
+X 11
+Y 15
+description The fortress-town of Caer Benowyc stands here. There is also a shop here: General Goode's Generally General Goods.
+
+X 12
+Y 15
+description You see an uncharted, flat expanse, scattered with fresh trees and wildflowers.
+
+X 15
+Y 15
+description You see a desolate, flat terrain, dotted with worn rocks.
+
+X 16
+Y 15
+description You see an uncharted, hilly region, dotted with broken stones.
+
+X 17
+Y 15
+description You see a rolling, plains terrain, scattered with foul-smelling trees and wildflowers and unusual rocks.
+
+X 18
+Y 15
+description You see a dry, plains terrain, scattered with jagged obsidian.
+
+X 1
+Y 16
+description You see an uncharted, flat wilderness, covered with jagged rocks.
+
+X 2
+Y 16
+description You see a stony, desert expanse, scattered with broken obsidian.
+
+X 3
+Y 16
+description You see a sloping, broken terrain, scattered with dangerous-looking plants.
+
+X 6
+Y 16
+description You see a dry, steppe expanse, scattered with foul-smelling trees and wildflowers and sharp rocks.
+
+X 7
+Y 16
+description You see a stony, desert wilderness, covered with strange-looking trees and wildflowers and sharp rocks.
+
+X 8
+Y 16
+description You see a sloping, flat wilderness, covered with foul-smelling plants.
+
+X 9
+Y 16
+description You see a dry, plains area, covered with fresh grass and sharp rocks.
+
+X 10
+Y 16
+description You see a barren, desert terrain, scattered with foul-smelling trees and wildflowers.
+
+X 11
+Y 16
+description You see a stony, plains terrain, dotted with fresh shrubs.
+
+X 12
+Y 16
+description You see a rolling, plains wilderness, scattered with strange-looking trees and wildflowers.
+
+X 13
+Y 16
+description You see a rolling, steppe wilderness, covered with foul-smelling plants and broken rocks.
+
+X 14
+Y 16
+description You see an uncharted, steppe region, dotted with pleasant-smelling grass and broken obsidian.
+
+X 15
+Y 16
+description You see a barren, forest area, dotted with pleasant-smelling trees and wildflowers and smooth obsidian.
+
+X 16
+Y 16
+description You see a rugged, desert area, scattered with fresh plants and worn rocks.
+
+X 17
+Y 16
+description You see a rugged, flat expanse, covered with fresh grass and sharp obsidian.
+
+X 1
+Y 17
+description You see an uncharted, broken wilderness, dotted with strange-looking shrubs.
+
+X 2
+Y 17
+description You see a rugged, plains area, covered with foul-smelling shrubs and unusual obsidian.
+
+X 3
+Y 17
+description You see a barren, forest area, scattered with fresh plants and sharp rocks.
+
+X 4
+Y 17
+description You see a rugged, steppe terrain, scattered with pleasant-smelling trees and wildflowers.
+
+X 5
+Y 17
+description You see a dry, broken area, scattered with jagged obsidian.
+
+X 6
+Y 17
+description You see a desolate, flat area, scattered with jagged ore.
+
+X 7
+Y 17
+description You see a rolling, hilly terrain, dotted with fresh shrubs and broken obsidian.
+
+X 8
+Y 17
+description You see an uncharted, plains expanse, covered with smooth rocks.
+
+X 11
+Y 17
+description You see a rolling, broken area, dotted with strange-looking plants and jagged ore.
+
+X 12
+Y 17
+description You see a rolling, plains area, scattered with broken rocks.
+
+X 13
+Y 17
+description You see a rugged, hilly terrain, scattered with foul-smelling grass and sharp stones.
+
+X 14
+Y 17
+description You see a sloping, plains area, dotted with worn rocks.
+
+X 15
+Y 17
+description You see a barren, forest region, scattered with strange-looking grass.
+
+X 16
+Y 17
+description You see a rolling, steppe terrain, dotted with pleasant-smelling plants and sharp rocks.
+
+X 17
+Y 17
+description You see a rolling, broken terrain, dotted with pleasant-smelling plants.
+
+X 1
+Y 18
+description A graveyard dominates this area. Robbed graves and looted mausoleums fill this area. This is the likely source of the undead.
+
+X 2
+Y 18
+description You see a barren, desert wilderness, scattered with foul-smelling grass and sharp ore.
+
+X 3
+Y 18
+description You see a desolate, plains expanse, dotted with unusual stones.
+
+X 4
+Y 18
+description You see a barren, plains area, scattered with strange-looking plants.
+
+X 5
+Y 18
+description You see an uncharted, plains terrain, covered with foul-smelling plants and unusual ore.
+
+X 6
+Y 18
+description You see a rugged, forest region, dotted with fresh shrubs.
+
+X 7
+Y 18
+description You see a dry, broken area, covered with smooth obsidian.
+
+X 12
+Y 18
+description You see a stony, flat area, dotted with dangerous-looking trees and wildflowers.
+
+X 13
+Y 18
+description You see a barren, plains expanse, covered with pleasant-smelling grass and jagged rocks.
+
+X 14
+Y 18
+description You see a barren, forest expanse, scattered with dangerous-looking plants.
+
+X 15
+Y 18
+description You see a barren, plains region, covered with fresh plants and jagged rocks.
+
+X 16
+Y 18
+description You see a stony, plains wilderness, scattered with strange-looking plants and smooth rocks.
+
+X 17
+Y 18
+description You see a rugged, broken area, covered with jagged ore.
+
+X 18
+Y 18
+description You see a desolate, steppe wilderness, scattered with dangerous-looking plants and smooth obsidian.
+
+X 18
+Y 18
+description Multiple holes in the ground lead to a warren, no doubt the source of the kobold infestation.
+

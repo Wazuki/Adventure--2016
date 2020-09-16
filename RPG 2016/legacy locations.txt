@@ -1,0 +1,25 @@
+num_locations 6
+
+x 1
+y 1
+description The mountain range dominates the north and west, preventing passage. You can see the orc fortress in the distance, to the east.
+
+x 2
+y 1
+description This massive orc fortress stands with its gates agape. TODO
+
+x 1
+y 2
+description The mountains to the west taper down here before dropping into a sheer cliff face to the south.
+
+x 17
+y 1
+description Goblin Cave TODO
+
+x 1
+y 18
+description Undead Lair TODO
+
+x 18
+y 18
+description Kobold Lair TODO

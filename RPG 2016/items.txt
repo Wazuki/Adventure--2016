@@ -1,0 +1,31 @@
+num_items 6
+
+name Cure Light Wounds Potion
+type healing
+effect 9
+cost 50
+
+name Cure Moderate Wounds Potion
+type healing
+effect 19
+cost 100
+
+name Cure Serious Wounds Potion
+type healing
+effect 29
+cost 250
+
+name Trail Ration
+type ration
+effect 1
+cost 1
+
+name Warp Crystal (Fragile)
+type warp
+effect 1
+cost 25
+
+name Warp Crystal (Stable)
+type warp
+effect 5
+cost 100

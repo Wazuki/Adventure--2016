@@ -1,0 +1,71 @@
+num_weapons 10
+
+name Unarmed
+minDmg 1
+maxDmg 3
+light 1
+twoHanded 0
+cost 0
+
+name Dagger
+minDmg 1
+maxDmg 4
+light 1
+twoHanded 0
+cost 2
+
+name Shortsword
+minDmg 1
+maxDmg 6
+light 1
+twoHanded 0
+cost 10
+
+name Battleaxe
+minDmg 1
+maxDmg 8
+light 0
+twoHanded 0
+cost 10
+
+name Longsword
+minDmg 1
+maxDmg 8
+light 0
+twoHanded 0
+cost 15
+
+name Bastard Sword
+minDmg 1
+maxDmg 10
+light 0
+twoHanded 0
+cost 35
+
+name Dwarven Waraxe
+minDmg 1
+maxDmg 10
+light 0
+twoHanded 0
+cost 15
+
+name Spiked Chain
+minDmg 2
+maxDmg 8
+light 0
+twoHanded 1
+cost 25
+
+name Greatsword
+minDmg 2
+maxDmg 12
+light 0
+twoHanded 1
+cost 50
+
+name Scythe
+minDmg 2
+maxDmg 8
+light 0
+twoHanded 1
+cost 18

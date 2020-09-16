@@ -1,0 +1,73 @@
+num_enemies 8
+
+name Orc
+hd 1
+hp 5
+ac 13
+att 4
+dmg 2d4
+dmgBonus 4
+roaming 1
+
+name Goblin
+hd 1
+hp 5
+ac 15
+att 2
+dmg 1d6
+dmgBonus 0
+roaming 1
+
+name Skeleton Warrior
+hd 1
+hp 6
+ac 15
+att 1
+dmg 1d6
+dmgBonus 1
+roaming 1
+
+name Kobold
+hd 1
+hp 4
+ac 15
+att 1
+dmg 1d6
+dmgBonus -1
+roaming 1
+
+name Badger
+hd 1
+hp 6
+ac 15
+att 4
+dmg 1d2
+dmgBonus -1
+roaming 1
+
+name Human Rebel
+hd 1
+hp 5
+ac 12
+att 1
+dmg 1d6
+dmgBonus 1
+roaming 1
+
+name Wolf
+hd 2
+hp 13
+ac 14
+att 3
+dmg 1d6
+dmgBonus 1
+roaming 1
+
+name Zombie
+hd 2
+hp 16
+ac 11
+att 2
+dmg 1d6
+dmgBonus 1
+roaming 1

@@ -1,0 +1,61 @@
+num_armors 12
+
+name Padded
+armorType light
+armorBonus 1
+cost 2
+
+name Leather
+armorType light
+armorBonus 2
+cost 10
+
+name Studded Leather
+armorType light
+armorBonus 3
+cost 25
+
+name Chain Shirt
+armorType light
+armorBonus 4
+cost 100
+
+name Hide
+armorType medium
+armorBonus 3
+cost 15
+
+name Scale Mail
+armorType medium
+armorBonus 4
+cost 50
+
+name Chainmail
+armorType medium
+armorBonus 5
+cost 150
+
+name Breastplate
+armorType medium
+armorBonus 5
+cost 200
+
+name Splint Mail
+armorType heavy
+armorBonus 6
+cost 200
+
+name Banded Mail
+armorType heavy
+armorBonus 6
+cost 250
+
+name Half-plate
+armorType heavy
+armorBonus 7
+cost 600
+
+name Full Plate
+armorType heavy
+armorBonus 8
+cost 1500
